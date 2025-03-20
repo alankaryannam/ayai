@@ -1,9 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="BZkZPBr1Ssgeml5Iwkc4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-1" target="JVMZ-LPRC9bkGvsDPVq2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-1" target="JVMZ-LPRC9bkGvsDPVq2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-1" target="JVMZ-LPRC9bkGvsDPVq2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-1" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;User Management&lt;/h2&gt;&lt;p&gt;Manage user registrations and profiles&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-2" target="JVMZ-LPRC9bkGvsDPVq2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-2" target="JVMZ-LPRC9bkGvsDPVq2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-2" target="JVMZ-LPRC9bkGvsDPVq2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-2" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Load Management&lt;/h2&gt;&lt;p&gt;Track and manage freight loads&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="590" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-3" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;User ID&lt;/h2&gt;&lt;p&gt;Unique identifier of a user&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-4" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;User Role&lt;/h2&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Defines the role of the user&lt;/p&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-5" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Status&lt;/h2&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Current status of the user account&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-1" target="JVMZ-LPRC9bkGvsDPVq2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVMZ-LPRC9bkGvsDPVq2-10" target="JVMZ-LPRC9bkGvsDPVq2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-10" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Manages&lt;/h2&gt;&lt;p&gt;Connects users with loads&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-13" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Load ID&lt;/h2&gt;&lt;p&gt;Unique identifier for each load&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-14" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Load Details&lt;/h2&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Load Info&lt;/p&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JVMZ-LPRC9bkGvsDPVq2-15" value="&lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Status&lt;/h2&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Current status of the load&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="720" width="220" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
